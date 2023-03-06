@@ -8,7 +8,7 @@ M : Modified (archivo esta modificado)
 
 A : Added (archivo agregado)
 
-
+git push (para subir archivos al remoto)
 
 
 
