@@ -6,7 +6,7 @@ U : Untracked files (git todavia no tiene registro)
 
 M : Modified (archivo esta modificado)
 
-A : Added (archivo agragado)
+A : Added (archivo agregado)
 
 
 
